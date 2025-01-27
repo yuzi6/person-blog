@@ -1,0 +1,212 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>Yuzi-ska</title>
+        <link>https://yuzi6.github.io/person-blog/</link>
+        <description>Recent content on Yuzi-ska</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>zh-cn</language>
+        <copyright>Example Person</copyright>
+        <lastBuildDate>Fri, 22 Nov 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://yuzi6.github.io/person-blog/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>xAI注册与使用</title>
+        <link>https://yuzi6.github.io/person-blog/p/xai-sign/</link>
+        <pubDate>Fri, 22 Nov 2024 00:00:00 +0000</pubDate>
+        
+        <guid>https://yuzi6.github.io/person-blog/p/xai-sign/</guid>
+        <description>&lt;img src="https://yuzi6.github.io/person-blog/p/xai-sign/20230715225556.png" alt="Featured image of post xAI注册与使用" /&gt;&lt;h2 id=&#34;入口与注册&#34;&gt;入口与注册
+&lt;/h2&gt;&lt;p&gt;点击此处&lt;a class=&#34;link&#34; href=&#34;https://accounts.x.ai/sign-up?redirect=cloud-console&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;xAI&lt;/a&gt;进入注册入口&lt;/p&gt;
+&lt;img src=&#34;2024-11-22_16-53-01.png&#34; alt=&#34;下载&#34;  /&gt;
+&lt;p&gt;可以使用&lt;strong&gt;QQ邮箱&lt;/strong&gt;进行注册，如果有X账号或者谷歌账号直接登入即可。&lt;/p&gt;
+&lt;p&gt;如果选择注册，那么会跳出邮箱认证界面。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://yuzi6.github.io/person-blog/person-blog/p/xai-sign/2024-11-22_16-56-34.png&#34;
+	width=&#34;747&#34;
+	height=&#34;468&#34;
+	srcset=&#34;https://yuzi6.github.io/person-blog/person-blog/p/xai-sign/2024-11-22_16-56-34_hu_225ee37cf8e34b84.png 480w, https://yuzi6.github.io/person-blog/person-blog/p/xai-sign/2024-11-22_16-56-34_hu_8bb6a8c1fd6504c0.png 1024w&#34;
+	loading=&#34;lazy&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;159&#34;
+		data-flex-basis=&#34;383px&#34;
+	
+&gt;&lt;/p&gt;
+&lt;p&gt;在注册的邮箱内认证即可。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://yuzi6.github.io/person-blog/person-blog/p/xai-sign/2024-11-22_16-58-35.png&#34;
+	width=&#34;601&#34;
+	height=&#34;258&#34;
+	srcset=&#34;https://yuzi6.github.io/person-blog/person-blog/p/xai-sign/2024-11-22_16-58-35_hu_d704965051e2682c.png 480w, https://yuzi6.github.io/person-blog/person-blog/p/xai-sign/2024-11-22_16-58-35_hu_314be639acd92b61.png 1024w&#34;
+	loading=&#34;lazy&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;232&#34;
+		data-flex-basis=&#34;559px&#34;
+	
+&gt;&lt;/p&gt;
+&lt;p&gt;勾选隐私协议与年龄政策&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://yuzi6.github.io/person-blog/person-blog/p/xai-sign/2024-11-22_17-01-01.png&#34;
+	width=&#34;659&#34;
+	height=&#34;502&#34;
+	srcset=&#34;https://yuzi6.github.io/person-blog/person-blog/p/xai-sign/2024-11-22_17-01-01_hu_a72098d6ad2360e5.png 480w, https://yuzi6.github.io/person-blog/person-blog/p/xai-sign/2024-11-22_17-01-01_hu_4bdb6615170e324f.png 1024w&#34;
+	loading=&#34;lazy&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;131&#34;
+		data-flex-basis=&#34;315px&#34;
+	
+&gt;&lt;/p&gt;
+&lt;h2 id=&#34;api获取&#34;&gt;API获取
+&lt;/h2&gt;&lt;p&gt;选择创建API key&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://yuzi6.github.io/person-blog/person-blog/p/xai-sign/2024-11-22_17-02-29.png&#34;
+	width=&#34;1197&#34;
+	height=&#34;496&#34;
+	srcset=&#34;https://yuzi6.github.io/person-blog/person-blog/p/xai-sign/2024-11-22_17-02-29_hu_9fec6ce34a9ea72a.png 480w, https://yuzi6.github.io/person-blog/person-blog/p/xai-sign/2024-11-22_17-02-29_hu_88e4c3bbfd0b5cc2.png 1024w&#34;
+	loading=&#34;lazy&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;241&#34;
+		data-flex-basis=&#34;579px&#34;
+	
+&gt;&lt;/p&gt;
+&lt;p&gt;创建后建议创建一个文本文档复制过去(&lt;strong&gt;请注意，该API只显示一次且建议不分享给任何人，如果分享给其他人，别人将可以使用你的API额度&lt;/strong&gt;)&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://yuzi6.github.io/person-blog/person-blog/p/xai-sign/2024-11-22_17-02-50.png&#34;
+	width=&#34;1008&#34;
+	height=&#34;501&#34;
+	srcset=&#34;https://yuzi6.github.io/person-blog/person-blog/p/xai-sign/2024-11-22_17-02-50_hu_fdef1749ad9cfebf.png 480w, https://yuzi6.github.io/person-blog/person-blog/p/xai-sign/2024-11-22_17-02-50_hu_63646e654dc49465.png 1024w&#34;
+	loading=&#34;lazy&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;201&#34;
+		data-flex-basis=&#34;482px&#34;
+	
+&gt;&lt;/p&gt;
+&lt;p&gt;如果API泄漏或者忘记，可以前往左侧菜单栏第二位创建新的API&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://yuzi6.github.io/person-blog/person-blog/p/xai-sign/2024-11-22_17-08-24.png&#34;
+	width=&#34;1000&#34;
+	height=&#34;542&#34;
+	srcset=&#34;https://yuzi6.github.io/person-blog/person-blog/p/xai-sign/2024-11-22_17-08-24_hu_21031868c474923f.png 480w, https://yuzi6.github.io/person-blog/person-blog/p/xai-sign/2024-11-22_17-08-24_hu_46cde585e9f48fa3.png 1024w&#34;
+	loading=&#34;lazy&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;184&#34;
+		data-flex-basis=&#34;442px&#34;
+	
+&gt;&lt;/p&gt;
+&lt;p&gt;填写API名字后默认下一步即可。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://yuzi6.github.io/person-blog/person-blog/p/xai-sign/2024-11-22_17-10-13.png&#34;
+	width=&#34;1000&#34;
+	height=&#34;542&#34;
+	srcset=&#34;https://yuzi6.github.io/person-blog/person-blog/p/xai-sign/2024-11-22_17-10-13_hu_be010900aed3fd41.png 480w, https://yuzi6.github.io/person-blog/person-blog/p/xai-sign/2024-11-22_17-10-13_hu_8f79f4eaf44672ad.png 1024w&#34;
+	loading=&#34;lazy&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;184&#34;
+		data-flex-basis=&#34;442px&#34;
+	
+&gt;&lt;/p&gt;
+&lt;p&gt;回到主页后可以查看额度使用情况。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://yuzi6.github.io/person-blog/person-blog/p/xai-sign/2024-11-22_17-12-44.png&#34;
+	width=&#34;1605&#34;
+	height=&#34;1013&#34;
+	srcset=&#34;https://yuzi6.github.io/person-blog/person-blog/p/xai-sign/2024-11-22_17-12-44_hu_fbbf5379d7e2ae0e.png 480w, https://yuzi6.github.io/person-blog/person-blog/p/xai-sign/2024-11-22_17-12-44_hu_fa891411d798555f.png 1024w&#34;
+	loading=&#34;lazy&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;158&#34;
+		data-flex-basis=&#34;380px&#34;
+	
+&gt;&lt;/p&gt;
+&lt;h2 id=&#34;一些问题&#34;&gt;一些问题
+&lt;/h2&gt;&lt;p&gt;&lt;strong&gt;此网站需要科学上网使用，默认可能无法打开&lt;/strong&gt;&lt;/p&gt;
+&lt;h2 id=&#34;具体调用&#34;&gt;具体调用
+&lt;/h2&gt;&lt;p&gt;&lt;strong&gt;可以使用任意一个支持自定义API功能的chat软件，这里不过多推荐。&lt;/strong&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>使用Ollama部署Ai模型</title>
+        <link>https://yuzi6.github.io/person-blog/p/ollama/</link>
+        <pubDate>Mon, 18 Nov 2024 00:00:00 +0000</pubDate>
+        
+        <guid>https://yuzi6.github.io/person-blog/p/ollama/</guid>
+        <description>&lt;img src="https://yuzi6.github.io/person-blog/p/ollama/20230717095021.png" alt="Featured image of post 使用Ollama部署Ai模型" /&gt;&lt;h2 id=&#34;下载ollama&#34;&gt;下载Ollama
+&lt;/h2&gt;&lt;p&gt;点击此处下载&lt;a class=&#34;link&#34; href=&#34;https://ollama.com/download/windows&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;Ollama&lt;/a&gt;，选择对应的系统版本下载即可。&lt;/p&gt;
+&lt;img src=&#34;2024-11-18_00-43-45.png&#34; alt=&#34;install&#34; style=&#34;zoom:50%;&#34; /&gt;
+&lt;p&gt;随后来到安装界面，点击install，无需进行其他操作，等待完成即可。&lt;/p&gt;
+&lt;img src=&#34;2024-11-18_00-45-55.png&#34; alt=&#34;安装&#34;  /&gt;
+&lt;h2 id=&#34;调取ollama&#34;&gt;调取Ollama
+&lt;/h2&gt;&lt;p&gt;由于Ollama没有图形界面，所以需要使用命令行工具调取。&lt;/p&gt;
+&lt;p&gt;输入&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;div class=&#34;chroma&#34;&gt;
+&lt;table class=&#34;lntable&#34;&gt;&lt;tr&gt;&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code&gt;&lt;span class=&#34;lnt&#34;&gt;1
+&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
+&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-fallback&#34; data-lang=&#34;fallback&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;Ollama
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;
+&lt;/div&gt;&lt;p&gt;查看Ollama是否能被正常调用，如下图&lt;/p&gt;
+&lt;img src=&#34;2024-11-18_00-51-33.png&#34; alt=&#34;调用&#34;  /&gt;
+&lt;p&gt;显示以下结果即为正常。&lt;/p&gt;
+&lt;h2 id=&#34;下载模型&#34;&gt;下载模型
+&lt;/h2&gt;&lt;p&gt;&lt;strong&gt;如果Ollama正常，前往&lt;a class=&#34;link&#34; href=&#34;https://ollama.com/search&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;Ollama&lt;/a&gt;官网模型地址下载需要的模型。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;在Ollama模型地址打开任意一个模型，如下图演示的Ollama3.2模型。&lt;/p&gt;
+&lt;img src=&#34;2024-11-18_00-57-06.png&#34; alt=&#34;下载模型&#34;  /&gt;
+&lt;p&gt;点击此处代码块右边的复制按键。&lt;/p&gt;
+&lt;img src=&#34;2024-11-18_00-59-32.png&#34; alt=&#34;下载&#34;  /&gt;
+&lt;p&gt;复制完成后打开命令行，将复制后的代码粘贴进去。&lt;/p&gt;
+&lt;img src=&#34;2024-11-18_00-59-47.png&#34; alt=&#34;xiazai&#34;  /&gt;
+&lt;p&gt;按下回车后即可开始下载。&lt;/p&gt;
+&lt;h2 id=&#34;查看下载的模型文件与调用&#34;&gt;查看下载的模型文件与调用
+&lt;/h2&gt;&lt;p&gt;可以通过输入&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;div class=&#34;chroma&#34;&gt;
+&lt;table class=&#34;lntable&#34;&gt;&lt;tr&gt;&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code&gt;&lt;span class=&#34;lnt&#34;&gt;1
+&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
+&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-fallback&#34; data-lang=&#34;fallback&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;Ollama list
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;
+&lt;/div&gt;&lt;p&gt;查看下载的模型文件。如需调用，输入“&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;div class=&#34;chroma&#34;&gt;
+&lt;table class=&#34;lntable&#34;&gt;&lt;tr&gt;&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code&gt;&lt;span class=&#34;lnt&#34;&gt;1
+&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
+&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-fallback&#34; data-lang=&#34;fallback&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;Ollama run 任意模型名字
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;
+&lt;/div&gt;&lt;img src=&#34;2024-11-18_01-04-03.png&#34;  /&gt;
+&lt;p&gt;&lt;strong&gt;看到这样的提示则代表调用正常，就可以愉快的与大模型对话了，如果需要退出，可以直接关闭命令行，Ollama在一定时间后会自动释放显存，也可以输入“/bye”指令退出。&lt;/strong&gt;&lt;/p&gt;
+&lt;h2 id=&#34;常见问题以及解决方案&#34;&gt;常见问题以及解决方案
+&lt;/h2&gt;&lt;h3 id=&#34;time-out报错&#34;&gt;&lt;strong&gt;time out报错&lt;/strong&gt;
+&lt;/h3&gt;&lt;p&gt;如果在中途中出现time out报错，是因为国内拉取不稳定，多复制几次下载即可。&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>归档</title>
+        <link>https://yuzi6.github.io/person-blog/archives/</link>
+        <pubDate>Tue, 28 May 2019 00:00:00 +0000</pubDate>
+        
+        <guid>https://yuzi6.github.io/person-blog/archives/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>搜索</title>
+        <link>https://yuzi6.github.io/person-blog/search/</link>
+        <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+        
+        <guid>https://yuzi6.github.io/person-blog/search/</guid>
+        <description></description>
+        </item>
+        
+    </channel>
+</rss>

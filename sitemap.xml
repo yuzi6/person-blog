@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>https://yuzi6.github.io/person-blog/</loc>
+    <lastmod>2024-11-22T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://yuzi6.github.io/person-blog/categories/ai/</loc>
+    <lastmod>2024-11-22T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://yuzi6.github.io/person-blog/categories/</loc>
+    <lastmod>2024-11-22T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://yuzi6.github.io/person-blog/post/</loc>
+    <lastmod>2024-11-22T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://yuzi6.github.io/person-blog/p/xai-sign/</loc>
+    <lastmod>2024-11-22T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://yuzi6.github.io/person-blog/categories/%E6%95%99%E7%A8%8B/</loc>
+    <lastmod>2024-11-22T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://yuzi6.github.io/person-blog/p/ollama/</loc>
+    <lastmod>2024-11-18T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://yuzi6.github.io/person-blog/page/</loc>
+    <lastmod>2019-05-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://yuzi6.github.io/person-blog/archives/</loc>
+    <lastmod>2019-05-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://yuzi6.github.io/person-blog/tags/</loc>
+  </url><url>
+    <loc>https://yuzi6.github.io/person-blog/search/</loc>
+  </url>
+</urlset>
